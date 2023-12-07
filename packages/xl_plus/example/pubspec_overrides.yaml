@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: foil_plus,xl_plus
+dependency_overrides:
+  foil_plus:
+    path: ../../foil_plus
+  xl_plus:
+    path: ..

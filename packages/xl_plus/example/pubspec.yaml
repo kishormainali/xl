@@ -1,0 +1,25 @@
+name: xl_demo
+description: A demonstration of several XL parallax widgets.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  foil_plus: 
+    path: ../../foil_plus
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+  xl_plus:
+    path: ../
+
+flutter:
+  uses-material-design: true
+  assets:
+    - res/

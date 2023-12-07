@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/foil_plus/example/melos_foil_demo.iml" filepath="$PROJECT_DIR$/packages/foil_plus/example/melos_foil_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/foil_plus/melos_foil_plus.iml" filepath="$PROJECT_DIR$/packages/foil_plus/melos_foil_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/xl_plus/example/melos_xl_demo.iml" filepath="$PROJECT_DIR$/packages/xl_plus/example/melos_xl_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/xl_plus/melos_xl_plus.iml" filepath="$PROJECT_DIR$/packages/xl_plus/melos_xl_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_xl_workspace.iml" filepath="$PROJECT_DIR$/melos_xl_workspace.iml" />
+    </modules>
+  </component>
+</project>
